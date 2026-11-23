@@ -26,5 +26,6 @@ def main() -> None:
     out.chmod(0o644)
 
 
+# Entry point: run main() so the single sentence is written out.
 if __name__ == "__main__":
     main()
