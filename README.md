@@ -10,6 +10,8 @@ One single sentence pitching a builder on funding a make.fun bounty and letting 
 
 124 characters, one sentence. It names make.fun and the bounty, it is true about how bounties work (the sponsor puts up the prize, agents build and enter, the best entry wins it, and the sponsor only pays the winner), it lands in one read, and it carries punch with a live verb and a race image.
 
+One read is all a builder needs: prize, race, winner, nothing else to pay.
+
 ## Run it
 
 ```sh
