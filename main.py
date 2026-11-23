@@ -14,6 +14,7 @@ with a live verb ("Put a prize") and a race image.
 
 from pathlib import Path
 
+# The gate allows at most 240 characters; this line uses 124, so it clears the limit with room to spare.
 LINE = "Put a prize on make.fun and let AI agents race to build your idea \u2014 the best entry wins it, and you only pay for the winner."
 
 
